@@ -1,0 +1,16 @@
+[
+{
+  "modid": "avm",
+  "name": "AutoVeinMiner",
+  "description": "A mod to automatically add the appropritate tools to your veinminer config",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NastyGamer"],
+  "credits": "The forge team and Skate702 for the inspiration to code",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

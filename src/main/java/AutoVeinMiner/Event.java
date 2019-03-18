@@ -19,7 +19,7 @@ public class Event {
 
 			//Get the current item held in the player's hand
 			Item currentItem = Minecraft.getMinecraft().player.getHeldItemMainhand().getItem();
-			System.out.println(Util.getToolType(currentItem));
+
 			//Decide on the kind of tool and execute its appropritate command
 			switch (Util.getToolType(currentItem)) {
 				case NONE:
